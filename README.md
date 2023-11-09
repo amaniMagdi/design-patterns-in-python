@@ -1,5 +1,5 @@
 # design-patterns-in-python
-Understanding design patterns, implementing them in python with code examples.
+Understanding design patterns and implementing them in python with code examples.
 Mainly I used the following site for this mission: https://refactoring.guru/design-patterns
 
 **Design patterns** are typical solutions to commonly occurring problems in software design. They are like pre-made blueprints that you can customize to solve a recurring design problem in your code.
