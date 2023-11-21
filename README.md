@@ -8,6 +8,8 @@ Mainly I used the following site for this mission: https://refactoring.guru/desi
 
 - **Creational patterns** provide object creation mechanisms that increase flexibility and reuse of existing code.
     * Factory Method
+    * Abstract Factory
+    * Builder
 
 - **Structural patterns** explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
