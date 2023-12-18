@@ -10,6 +10,7 @@ Mainly I used the following site for this mission: https://refactoring.guru/desi
     * Factory Method
     * Abstract Factory
     * Builder
+    * Singleton
 
 - **Structural patterns** explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient.
 
